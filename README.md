@@ -30,7 +30,7 @@ El proceso de diseño requirió:
 ## 🗣️ Perspectiva del Usuario (Historia de Aplicación)
 
 **Narrativa Clave:**
-[cite_start]"Como estudiante de Ingeniería de Software, quiero un **servicio web** funcional que permitiera calcular el área y perímetro de formas básicas. para dominar la implementación de la **Reflexión en Java**." [cite: 20]
+[cite_start]"Como estudiante de Ingeniería de Software, quiero un **servicio web** funcional que permita calcular el área y perímetro de formas básicas. para dominar la implementación de la **Reflexión en Java**." [cite: 20]
 
 ---
 
@@ -38,7 +38,7 @@ El proceso de diseño requirió:
 
 La estructura del sistema, siguiendo el paradigma Orientado a Objetos, se visualiza en el siguiente diagrama de clases:
 
-
+![Diagrama de Clases UML](diagrama%20arquitectura.png)
 
 **Elementos Notables del Modelo:**
 * [cite_start]**IShape** ($\langle\langle I \rangle\rangle$): Define el contrato esencial para cualquier forma geométrica, incluyendo operaciones de movimiento, cálculo de área y perímetro. [cite: 23, 24, 25, 26, 27]
